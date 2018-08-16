@@ -1,0 +1,15 @@
+{
+  "name": "lumo-unpack-binding",
+  "version": "1.0.0",
+  "description": "Unpack binary node bindings for apps bundled with pkg-lumo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "EPL-1.0",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "string_decoder": "^1.1.1"
+  }
+}
